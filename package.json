@@ -1,0 +1,12 @@
+{
+  "name": "TS-DS",
+  "version": "1.0.0",
+  "description": "Data Structure and Alog (Typescript)",
+  "main": "index.js",
+  "repository": "https://github.com/ishubhamx/TS-DS.git",
+  "author": "s0v03eh <shubham.vishwakarma@walmart.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
